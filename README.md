@@ -1,2 +1,25 @@
-# 241d9b12-special-education--iep-client
-Weekly and monthly report templates with charts, KPIs, and executive summaries. Impress clients with professional reporting in minutes.
+# Special Education & IEP Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq8wPfXx2k4cVW7jCd0p06)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq8wPfXx2k4cVW7jCd0p06)
+
